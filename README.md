@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por  tecnologia...
-- 🌱 Estudante de analise e desenvolvimento de sistemas 4/5
+- 🌱 Estudante de analise e desenvolvimento de sistemas
 
 <div alinhar = "centro">
     <a href="https://github.com/Alex-Sandro65">

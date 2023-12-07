@@ -1,7 +1,7 @@
 ###  Olá! Eu sou o Alex Sandro...
 
 
-- 🔭 Apaixonado por  tecnologia...
+- 🔭 Fascinado pelo que a tecnologia pode oferecer
 - 🌱 Estudante de analise e desenvolvimento de sistemas
 
 <div alinhar = "centro">
